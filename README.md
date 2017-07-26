@@ -1,7 +1,5 @@
-# component-vf
+# component-vf  组件库
 公司自主研发框架vf.js（基于vuejs和angularjs的MVP模式）开发的一套组件库
-# component-cy  组件库
-基于Angular.js与Vue.js公司自主开发的一套框架，在新框架的基础上，开发出来的一套前端常用组件库
 
 
 # 组件化开发的优点
@@ -74,7 +72,7 @@ $ https://github.com/chenya1123236324/component-cy.git
 
 ## 查看页面
 
- [点击查看](https://chenya1123236324.github.io/component-cy/business/index.html#!/admin/button/button.html)
+ [点击查看](https://liulei9311230.github.io/component-cy/business/index.html#!/admin/button/button.html)
 
 
 
