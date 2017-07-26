@@ -63,12 +63,6 @@ $ https://github.com/chenya1123236324/component-cy.git
 在浏览器中打开： http://localhost:【端口号】/component-cy/business/index.html#!/admin/button/button.html
 ```
 
-## 组件库截图
-
-<div  align="center">    
- <img src="https://chenya1123236324.github.io/component-cy/business/comm/style/less/component/homeMenu/component.jpg"  alt="项目截图" align=center />
-</div>
-
 
 ## 查看页面
 
