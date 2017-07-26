@@ -17,7 +17,7 @@ model('homeMenu',function(){
             homeLink:'/admin/button/button.html',//【必填】首页点击链接
             MessageNumber:'3',//【必填】消息数量，默认为0
             MessageLink:'/admin/button/button.html',//【必填】消息数量，默认为0
-            userHead:'./comm/style/less/component/homeMenu/22658371.png',//【必填】用户头像
+            userHead:'./comm/style/less/component/homeMenu/22658371.jpg',//【必填】用户头像
             userName:'刘磊',//【必填】用户名称
             userInformation:'<a href="/admin/button/button.html">个人信息</a>',//【非必填】用户信息--[预留功能,后期需要添加]
             settingLink:'/admin/button/button.html',//【必填】设置链接
