@@ -10,7 +10,7 @@ model('homeMenu',function(){
         },//菜单基础信息配置【此名称组件中用到，不可修改】
         menuBaseInformation:{
             isFrontPage:false,//【必填】true表示用户前端展示菜单，false表示后台设置菜单
-            companyLogo:'./comm/style/less/component/homeMenu/menu-logo.png', //【必填】企业logo
+            companyLogo:'./comm/style/less/component/homeMenu/22658371.png', //【必填】企业logo
             companyLink:'/admin/button/button.html',//【必填】公司logo点击链接
             menuIcon:'icon-menu',//【必填】主菜单图标
             homeIcon:'icon-index-copy',//【必填】首页图标
@@ -18,7 +18,7 @@ model('homeMenu',function(){
             MessageNumber:'3',//【必填】消息数量，默认为0
             MessageLink:'/admin/button/button.html',//【必填】消息数量，默认为0
             userHead:'./comm/style/less/component/homeMenu/menu-head.png',//【必填】用户头像
-            userName:'陈亚',//【必填】用户名称
+            userName:'刘磊',//【必填】用户名称
             userInformation:'<a href="/admin/button/button.html">个人信息</a>',//【非必填】用户信息--[预留功能,后期需要添加]
             settingLink:'/admin/button/button.html',//【必填】设置链接
             style: {          //【非必填】预留功能
