@@ -59,14 +59,14 @@
 
 
 ```bash
-$ https://github.com/chenya1123236324/component-cy.git
-在浏览器中打开： http://localhost:【端口号】/component-cy/business/index.html#!/admin/button/button.html
+$ https://github.com/liulei9311230/component-vf.git
+在浏览器中打开： http://localhost:【端口号】/component-vf/business/index.html#!/admin/button/button.html
 ```
 
 
 ## 查看页面
 
- [点击查看](https://liulei9311230.github.io/component-cy/business/index.html#!/admin/button/button.html)
+ [点击查看](https://liulei9311230.github.io/component-vf/business/index.html#!/admin/button/button.html)
 
 
 
